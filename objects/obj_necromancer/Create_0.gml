@@ -1,0 +1,16 @@
+event_inherited();
+hp = 40;
+max_hp = hp;
+state = "move";
+sped = 0.5;
+sight_range = 100;
+chase_range = 100;
+attack_range = 100;
+attack_lifespan = 50;
+run_image_speed = 1;
+damage = 10;
+knockback = 10;
+attack_image_speed = 0.5;
+hurt_image_speed = 1;
+knockback_friction = 0.8;
+experience = 8;

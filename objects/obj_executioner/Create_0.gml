@@ -1,0 +1,23 @@
+event_inherited();
+hp = 100;
+max_hp = hp;
+state = "move";
+sped = 1;
+damage = 10;
+chase_range = 200;
+attack_range = 40;
+attack_lifespan = 4;
+run_image_speed = 1;
+knockback = 14;
+run_image_speed = 0.4;
+attack_image_speed = 0.4;
+die_image_speed = 0.5;
+hurt_image_speed = 0.6;
+knockback_friction = 1;
+experience = 10;
+hurt_screenshake_duration = 2;
+hurt_screenshake_intensity = 2;
+death_screenshake_duration = 4;
+death_screenshake_intensity = 4;
+
+frenzy_used = false;
